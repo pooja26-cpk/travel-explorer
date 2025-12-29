@@ -1,0 +1,4 @@
+html, body, #root { height: 100%; }
+body { background: #f7f8fc; color: #1a202c; margin: 0; }
+img { max-width: 100%; display: block; }
+a { color: inherit; }
